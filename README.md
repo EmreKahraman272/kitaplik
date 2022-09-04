@@ -1,2 +1,2 @@
 # kitaplik
-Credits to PythonPractices1
+Credits also to PythonPractices1
